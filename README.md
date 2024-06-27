@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SAGIGURI
 - 👀 I’m interested in hardware interfacing.
-- 🌱 I’m currently learning Electronics along with embedded system
-- 💞️ I’m looking to collaborate on micro chip desining 
-- 📫 How to reach me gurisagi48@gamil.com 
+- 🌱 I’m currently learning Electronics along with embedded system.
+- 💞️ I’m looking to collaborate on micro chip desining.
+- 📫 How to reach me gurisagi48@gamil.com.
 - 😄 Pronouns: ...\\\\\\\\
 - ⚡ Fun fact: ...\\\\\\ NOT FUNNY \\\\\\\
 
